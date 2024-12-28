@@ -1,129 +1,98 @@
-👋 Hi, I'm Anas Ahson!
+# 👋 Hi, I'm Anas Ahson!
 
-Welcome to my GitHub profile! 🚀 I am a passionate Full Stack Web Developer with expertise in Laravel, PHP, and Frontend Technologies. I specialize in creating SEO-optimized websites, dynamic web applications, and eCommerce solutions. I love experimenting with new technologies and building tools that help businesses grow.
+Welcome to my GitHub profile! 🚀 I am a passionate **Full Stack Web Developer** with expertise in **Laravel**, **PHP**, and **Frontend Technologies**. I specialize in creating **SEO-optimized** websites, dynamic web applications, and **eCommerce** solutions. I love experimenting with new technologies and building tools that help businesses grow.
 
-🌟 About Me
+## 🌟 About Me
 
-🔬 I’m currently working at Growth Glades Private Limited as a Full Stack Laravel Developer with over 7 months of experience.
+- 🔭 I’m currently working at **Growth Glades Private Limited** as a **Full Stack Laravel Developer** with over 7 months of experience.
+- 🌱 I’m always learning and exploring new tech, including **AI** and **IoT** applications.
+- 👯 I collaborate with beginners and help them in their web development journey. 💬
+- 💼 I’m also open to freelance opportunities and collaborations on **Upwork**.
+- 🌍 I’m based in **Lahore**, Pakistan. 🇵🇰
+- 💬 Reach me at: [anasahson92@gmail.com](mailto:anasahson92@gmail.com)
 
-🌱 I’m always learning and exploring new tech, including AI and IoT applications.
+## 🛠️ Technologies & Tools
 
-💯 I collaborate with beginners and help them in their web development journey. 💬
+### 💻 Programming Languages
+- **HTML5** 📝
+- **CSS3** 🎨
+- **JavaScript (ES6+)** ⚡
+- **PHP** 💻
+- **SQL** 🗃️
+- **Python** 🐍
 
-💼 I’m also open to freelance opportunities and collaborations on Upwork.
+### 🚀 Frameworks & Libraries
+- **Laravel** 🖥️
+- **Livewire** 🌐
+- **Bootstrap** ⚡
+- **Vue.js** 🔮
+- **jQuery** 🧩
+- **Tailwind CSS** 🌈
 
-🌍 I’m based in Lahore, Pakistan. 🇵🇰
+### ⚙️ Tools & Platforms
+- **GitHub** 🧑‍💻
+- **Git** 🔧
+- **XAMPP** 🔥
+- **Hostinger** 🌐
+- **Upwork** 💼
+- **Trello** 🗂️
+- **Visual Studio Code** 🖱️
 
-💬 Reach me at: anasahson92@gmail.com
+### 🌍 Cloud & Services
+- **AWS** ☁️
+- **Google Cloud** 🔒
+- **Heroku** 🌱
+- **Netlify** 🌎
 
-🛠️ Technologies & Tools
+### 🤖 AI & Automation
+- **OpenAI** 🤖
+- **TensorFlow** 🧠
+- **AI-Powered Automation** 🚀
 
-💻 Programming Languages
+### 🖼️ Free Copyright Images
+I use high-quality, **free copyright images** from the following sources:
+- [Unsplash](https://unsplash.com/)
+- [Pexels](https://www.pexels.com/)
+- [Pixabay](https://pixabay.com/)
 
-HTML5 🖍️
+## 📈 GitHub Stats
 
-CSS3 🎨
+![Anas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=anasahson&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-JavaScript (ES6+) ⚡
+## 📊 Top Languages
 
-PHP 💻
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anasahson&langs_count=6&theme=radical)
 
-SQL 🔃
-
-Ajax
-
-JSON
-
-🚀 Frameworks & Libraries
-
-Laravel 🖥️
-
-Livewire 🌐
-
-Bootstrap ⚡
-
-HTML 🔮
-
-jQuery 🧬
-
-Tailwind CSS 🌈
-
-CSS
-
-⚙️ Tools & Platforms
-
-GitHub 🧑‍💻
-
-Git 🔧
-
-XAMPP 🔥
-
-Hostinger 🌐
-
-Visual Studio Code 🖱️
-
-🖼️ Free Copyright Images
-
-I use high-quality, free copyright images from the following sources:
-
-Unsplash
-
-Pexels
-
-Pixabay
-
-📊 GitHub Stats
-
-
-
-📊 Top Languages
-
-
-
-📂 My Projects
+## 📂 My Projects
 
 Here are some of my key projects:
 
-🔗 Growth Glades Website
+### 🔗 [Growth Glades Website](https://growthglades.pk)
+- 🌐 A responsive website with **SEO-optimized** pages for the **Growth Glades Private Limited** company.
 
-🌐 A responsive website with SEO-optimized pages for the Growth Glades Private Limited company.
+### 📦 [eCommerce Project](https://github.com/anasahson/ecommerce-project)
+- 🛒 A fully functional **eCommerce** platform built using **Laravel**, including **real-time search**, **admin panel**, and **user authentication**.
 
-📦 eCommerce Project
+### 🖥️ [Livewire CRUD App](https://github.com/anasahson/livewire-crud)
+- 💡 A **Livewire** app with **CRUD functionality**, **real-time search**, and **login/registration** features.
 
-🛒 A fully functional eCommerce platform built using Laravel, including real-time search, admin panel, and user authentication.
+### 💬 [Blog Project](https://github.com/anasahson/blog)
+- ✍️ A **SEO-based** blog project using **Laravel**, designed to rank on **Google** with clean code and performance optimizations.
 
-🖥️ Livewire CRUD App
+## 🌱 How I Work
+- **Developing with love** 💖
+- **Always improving UX/UI** 👨‍💻
+- Writing **clean and maintainable code** 📜
+- **Problem-solving** with a focus on **efficiency** 🔧
+- Always **updating projects** to stay aligned with industry trends 🔄
 
-💡 A Livewire app with CRUD functionality, real-time search, and login/registration features.
+## 📞 Connect with Me
+- **Email**: [anasahson92@gmail.com](mailto:anasahson92@gmail.com)
+- **LinkedIn**: [Anas Ahson](https://www.linkedin.com/in/anas-ahson/)
+- **Twitter**: [@anasahson92](https://twitter.com/anasahson92)
+- **Instagram**: [@anasahson92](https://www.instagram.com/anasahson92/)
+- **Upwork**: [Anas Ahson - Full Stack Developer](https://www.upwork.com/freelancers/~01a1234567f8a91)
 
-💬 Blog Project
+---
 
-✍️ A SEO-based blog project using Laravel, designed to rank on Google with clean code and performance optimizations.
-
-🌱 How I Work
-
-Developing with love 💖
-
-Always improving UX/UI 👨‍💻
-
-Writing clean and maintainable code 📜
-
-Problem-solving with a focus on efficiency 🔧
-
-Always updating projects to stay aligned with industry trends 🔄
-
-📞 Connect with Me
-
-Email: anasahson92@gmail.com
-
-LinkedIn: Anas Ahson
-
-Twitter: @anasahson92
-
-Instagram: @anasahson92
-
-Upwork: Anas Ahson - Full Stack Developer
-
-🔧 "Develop with Love" 💻
-
-
+🔧 **"Develop with Love"** 💻
